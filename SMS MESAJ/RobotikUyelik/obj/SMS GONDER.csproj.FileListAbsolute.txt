@@ -1,0 +1,9 @@
+E:\DATA\SMS MESAJ\RobotikUyelik\obj\Debug\ResolveAssemblyReference.cache
+E:\DATA\SMS MESAJ\RobotikUyelik\obj\Debug\SMSGONDER.Properties.Resources.resources
+E:\DATA\SMS MESAJ\RobotikUyelik\obj\Debug\RobotikUyelik.SeriPortBagla.resources
+E:\DATA\SMS MESAJ\RobotikUyelik\obj\Debug\SMS GONDER.csproj.GenerateResource.Cache
+E:\DATA\SMS MESAJ\RobotikUyelik\bin\Debug\SMSGONDER.exe.config
+E:\DATA\SMS MESAJ\RobotikUyelik\bin\Debug\SMSGONDER.exe
+E:\DATA\SMS MESAJ\RobotikUyelik\bin\Debug\SMSGONDER.pdb
+E:\DATA\SMS MESAJ\RobotikUyelik\obj\Debug\SMSGONDER.exe
+E:\DATA\SMS MESAJ\RobotikUyelik\obj\Debug\SMSGONDER.pdb
